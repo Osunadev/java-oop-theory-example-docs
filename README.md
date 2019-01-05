@@ -8,7 +8,7 @@ The topics covered in each unit are organized with a theoretical introduction fo
 
 - _3.1.1. Applicable modifiers in classes declarations: public, abstract, final, extends, implements._
 - _3.1.2. Abstract classes._
--     *3.1.3. Interfaces.*
+- _3.1.3. Interfaces._
 - _3.1.4. Enumerations._
 
 **_3.2. Wrapper classes_**
